@@ -8,7 +8,6 @@ const onlineServices = [
   { icon: '📿', title: 'Online Kundli Reading', desc: 'Comprehensive birth chart analysis online' },
   { icon: '🖐️', title: 'Online Palm Reading', desc: 'Send photos for detailed palmistry reading' },
   { icon: '👁️', title: 'Online Face Reading', desc: 'Virtual face reading for insights' },
-  { icon: '🏠', title: 'Online Vastu Consultation', desc: 'Remote Vastu guidance for your space' },
   { icon: '🙏', title: 'Online Pooja Consultation', desc: 'Virtual pooja guidance and rituals' },
 ];
 

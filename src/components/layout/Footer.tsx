@@ -9,8 +9,6 @@ const footerLinks = {
     'Career Astrology',
     'Palm Reading',
     'Face Reading',
-    'Numerology',
-    'Vastu Consultation',
     'Online Pooja',
   ],
   quickLinks: [

@@ -30,7 +30,7 @@ const testimonials = [
   {
     name: 'Meena Joshi',
     role: 'Teacher',
-    content: 'Very insightful vastu suggestions for our home. We saw positive changes within weeks of implementing her recommendations. Truly grateful!',
+    content: 'The guidance I received for my home and family matters was thoughtful and practical. The remedies were easy to follow and brought a lot of clarity.',
     rating: 5,
   },
   {

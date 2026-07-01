@@ -65,22 +65,7 @@ const services: Service[] = [
     description: 'Face reading analysis revealing character, fortune, and life patterns.',
   },
   {
-    icon: '🔢',
-    title: 'Numerology',
-    description: 'Name correction and numerology consultation for better life outcomes.',
-  },
-  {
-    icon: '🏠',
-    title: 'Vastu Consultation',
-    description: 'Home Vastu guidance for positive energy, peace, and prosperity.',
-  },
-  {
-    icon: '🏢',
-    title: 'Office Vastu',
-    description: 'Commercial Vastu consultation for business growth and success.',
-  },
-  {
-    icon: '🙏',
+    icon: '🙏🏻',
     title: 'Online Pooja',
     description: 'Virtual Pooja consultation for spiritual remedies and divine blessings.',
   },

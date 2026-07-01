@@ -136,7 +136,7 @@ export function AboutSection() {
               transition={{ delay: 0.2 }}
             >
               <p>
-                A trusted Astrologer in Jaipur offering Vedic Astrology, Kundli Reading, Janam Kundli Analysis, Horoscope Reading, Palm Reading, Face Reading, Numerology, Vastu Consultation, and Online Pooja Consultation.
+                A trusted Astrologer in Jaipur offering Vedic Astrology, Kundli Reading, Janam Kundli Analysis, Horoscope Reading, Palm Reading, Face Reading, and Online Pooja Consultation.
               </p>
               <p>
                 My mission is to help people gain clarity, confidence, and direction through personalized astrological guidance. With over 20 years of experience and 5000+ successful consultations, I bring both spiritual wisdom and practical solutions to every reading.
@@ -155,8 +155,7 @@ export function AboutSection() {
                 'Vedic Astrology',
                 'Kundli Expert',
                 'Palm Reader',
-                'Numerologist',
-                'Vastu Consultant',
+                'Face Reader',
               ].map((tag) => (
                 <span
                   key={tag}

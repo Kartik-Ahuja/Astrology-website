@@ -5,7 +5,7 @@ import { SectionHeading } from '../ui/UIComponents';
 const faqs = [
   {
     question: 'Who is the best astrologer in Jaipur?',
-    answer: 'Astrologer Shilpa Tibrewal is one of the most trusted and experienced astrologers in Jaipur, with over 20 years of experience in Vedic Astrology, Kundli Reading, Kundli Matching, Palm Reading, Face Reading, Numerology, and Vastu Consultation. She has guided over 5000+ clients with accurate predictions and practical remedies.',
+    answer: 'Astrologer Shilpa Tibrewal is one of the most trusted and experienced astrologers in Jaipur, with over 20 years of experience in Vedic Astrology, Kundli Reading, Kundli Matching, Palm Reading, Face Reading, and Online Pooja Consultation. She has guided over 5000+ clients with accurate predictions and practical remedies.',
   },
   {
     question: 'How does kundli reading work?',
@@ -13,7 +13,7 @@ const faqs = [
   },
   {
     question: 'Can I book an online astrology consultation?',
-    answer: 'Yes! Astrologer Shilpa offers online consultations via WhatsApp, phone call, and video call. You can receive guidance on Kundli Reading, Palm Reading, Face Reading, Vastu, and Online Pooja from anywhere in the world. Simply book through our website or contact via WhatsApp.',
+    answer: 'Yes! Astrologer Shilpa offers online consultations via WhatsApp, phone call, and video call. You can receive guidance on Kundli Reading, Palm Reading, Face Reading, and Online Pooja from anywhere in the world. Simply book through our website or contact via WhatsApp.',
   },
   {
     question: 'Do you offer online pooja consultation?',
@@ -24,8 +24,8 @@ const faqs = [
     answer: 'For accurate horoscope reading, you need to provide: your birth date, exact birth time (as accurate as possible), and birth place (city/state/country). More accurate details lead to more precise predictions and guidance.',
   },
   {
-    question: 'Do you provide vastu consultation for homes and offices?',
-    answer: 'Yes, Astrologer Shilpa provides comprehensive Vastu Consultation for both homes and commercial spaces. She analyzes your property layout and provides practical remedies for better energy flow, prosperity, and harmony without requiring major structural changes.',
+    question: 'What kinds of consultations do you offer?',
+    answer: 'Astrologer Shilpa offers personalized consultations for Kundli Reading, Kundli Matching, Career Astrology, Marriage Compatibility, Palm Reading, Face Reading, and Online Pooja guidance.',
   },
   {
     question: 'What is the cost of astrology consultation?',

@@ -265,8 +265,6 @@ export function ContactSection() {
                       <option value="marriage-compatibility">Marriage Compatibility</option>
                       <option value="palm-reading">Palm Reading</option>
                       <option value="face-reading">Face Reading</option>
-                      <option value="numerology">Numerology</option>
-                      <option value="vastu-consultation">Vastu Consultation</option>
                       <option value="online-pooja">Online Pooja</option>
                       <option value="other">Other</option>
                     </select>
